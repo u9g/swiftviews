@@ -100,7 +100,7 @@ struct TopBar: View {
 
             // Content inside bar
             HStack {
-                Text("**s**wift**v**iews")
+                Text("**s**wifty**v**iews")
                     .foregroundColor(.white)
                     .font(.title)
             }

@@ -9,6 +9,29 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>SwiftyViews.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>DC67B91B2E8B01BD00AE3D0E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>DC67B92D2E8B01C000AE3D0E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>DC67B9372E8B01C000AE3D0E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 	</dict>
 </dict>
 </plist>
